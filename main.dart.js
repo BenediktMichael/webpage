@@ -34006,7 +34006,7 @@ s=this.y
 s.M(0,this.gHL())
 s.n(0)},
 U(a,b){var s,r,q,p,o=this,n=null,m="Helvetica",l=t.w,k=A.lX(n,b.a_(l).f.a.b*0.05,n),j=t.G,i=A.abZ(A.a([new A.fF(B.eC,A.a7y(B.JM,B.Dm,new A.a21(o),B.eD,B.dY),n),new A.fF(B.eC,A.a7y(B.JK,B.qR,new A.a22(o),B.eD,B.dY),n),new A.fF(B.eC,A.a7y(B.JL,B.fl,new A.a23(o),B.eD,B.dY),n)],j),B.CT,B.dK),h=A.lX(n,b.a_(l).f.a.b*0.07,n),g=b.a_(l).f
-g=A.nn(n,new A.Bi(B.uI,A.Zf("Damit auch Sie im Regen singen k\xf6nnen",n,n,n,A.kd(n,n,n,n,n,n,n,n,m,n,n,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),n),n,n,n,n,B.z0,g.a.a*0.9)
+g=A.nn(n,new A.Bi(B.uI,A.Zf("Damit auch Sie im Regen singen k\xf6nnen.",n,n,n,A.kd(n,n,n,n,n,n,n,n,m,n,n,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),n),n,n,n,n,B.z0,g.a.a*0.9)
 s=A.lX(n,b.a_(l).f.a.b*0.07,n)
 r=o.z.x
 q=r.gp(r)
@@ -34074,7 +34074,7 @@ return A.aak(A.a([new A.fF(B.lr,A.Zf(A.a7H(r,!1),s,s,s,B.GO,s,s),s)],t.G),B.fj,B
 $S:130}
 A.a26.prototype={
 $1(a){var s=this.a.f.a.a,r=s.length-1
-if(s[r]!=="Damit auch Sie im Regen singen k\xf6nnen"[r])return"error"
+if(s[r]!=="Damit auch Sie im Regen singen k\xf6nnen."[r])return"error"
 return null},
 $S:382}
 A.a25.prototype={
@@ -34085,7 +34085,7 @@ while(true)switch(s){case 0:p=q.a
 o=p.f
 n=o.a.a
 m=n.length-1
-s=n[m]!=="Damit auch Sie im Regen singen k\xf6nnen"[m]?2:4
+s=n[m]!=="Damit auch Sie im Regen singen k\xf6nnen."[m]?2:4
 break
 case 2:p.w=B.fl
 s=5
@@ -34098,7 +34098,7 @@ p.w=B.dN
 p.an(new A.a2_())
 s=3
 break
-case 4:s=n==="Damit auch Sie im Regen singen k\xf6nnen"?7:8
+case 4:s=n==="Damit auch Sie im Regen singen k\xf6nnen."?7:8
 break
 case 7:p.w=B.qR
 s=9
